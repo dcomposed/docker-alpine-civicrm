@@ -1,4 +1,4 @@
-# CiviCRM 5.11.0 + Drupal 7
+# CiviCRM 5.14.1 + Drupal 7
 
 # Auto configuration parameters :
 
